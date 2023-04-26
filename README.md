@@ -38,7 +38,7 @@
   📫  You can also check out my <b>latest works</b> or <b>contact me</b> on
   <br> 
 
-  <a href="https://www.linkedin.com/in/emilianooferreyra/">Linkedin</a> or on my <a href="emilianooferreyra@gmail.com">Gmail</a> 
+  <a href="https://www.linkedin.com/in/emilianooferreyra/">Linkedin</a> or on my <a href="mailto:emilianooferreyra@gmail.com">Gmail</a> 
 </h3> 
 
 ### ― See ya! 👋
