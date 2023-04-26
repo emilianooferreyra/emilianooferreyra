@@ -32,14 +32,14 @@
 ```
 
 
-#### Contact me on [Telegram](https://t.me/emilianoferreyra), we can chat at 🇪🇸 🇬🇧(a little).
+#### Contact me on [Telegram](https://t.me/emilianoferreyra), we can chat at 🇪🇸 🇬🇧(🤏🏻).
 
-<!-- <h3>
+ <h3>
   📫  You can also check out my <b>latest works</b> or <b>contact me</b> on
   <br> 
-  <a href="https://www.malt.fr/profile/juliencaron">Malt</a>,
-  <a href="https://www.linkedin.com/in/caronjulien">Linkedin</a> or on my <a href="https://juliencaron.eu">Portfolio ― juliencaron.eu</a> 
-</h3> -->
+
+  <a href="https://www.linkedin.com/in/emilianooferreyra/">Linkedin</a> or on my <a href="emilianooferreyra@gmail.com">Gmail</a> 
+</h3> 
 
 ### ― See ya! 👋
 
