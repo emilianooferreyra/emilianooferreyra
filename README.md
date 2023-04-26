@@ -17,7 +17,7 @@
     <br>
     <☕️‍ /> When I'm not hacking, I sometimes do some freelance work as frontend dev.
     <br>
-    <🌱 /> I am also slowly learning react native and nodejs and how to become a fullstack developer. Also interested in computer security.
+    <🌱 /> I am also slowly learning react-native and nodejs and how to become a fullstack developer. Also interested in computer security.
     <br>
     <🍺 /> Besides programming, I'm interested in music, especially electronic music, and I like to play sports like handball since I was a kid or football with friends.
 </p>
