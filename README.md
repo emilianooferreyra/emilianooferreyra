@@ -1,10 +1,54 @@
-- 👋 Hi, I’m @emilianooferreyra
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-emilianooferreyra/emilianooferreyra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!--![Hi](https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/hi.gif)-->
+<h1>
+ ✌<br>
+  Hi there ― <br> 
+  my name is Emiliano, <br> 
+  passionate developer.
+</h1>
+
+
+<!-- <br/> -->
+
+### Some words about me
+
+<p>
+ <🎯 /> I'm currently building...
+    <br>
+    <☕️‍ /> When I'm not hacking, I sometimes do some freelance work as frontend dev.
+    <br>
+    <🌱 /> I am also slowly learning React Native and Nodejs and how to become a fullstack developer. Also interested in computer security.
+    <br>
+    <🍺 /> Besides programming, I'm interested in music, especially electronic music, and I like to play sports like handball since I was a kid or football with friends.
+</p>
+
+### Some technologies I like working with
+
+```json
+{
+  "frontend": ["react", "nextjs", "mui|tailwindcss"],
+  "backend": ["typescript", "nodejs", "express", "firebase", "mongodb", "postgresql"],
+}
+```
+
+
+#### Contact me on [Telegram](https://t.me/emilianoferreyra), we can chat at 🇪🇸 🇬🇧(a little).
+
+<!-- <h3>
+  📫  You can also check out my <b>latest works</b> or <b>contact me</b> on
+  <br> 
+  <a href="https://www.malt.fr/profile/juliencaron">Malt</a>,
+  <a href="https://www.linkedin.com/in/caronjulien">Linkedin</a> or on my <a href="https://juliencaron.eu">Portfolio ― juliencaron.eu</a> 
+</h3> -->
+
+### ― See ya! 👋
+
+<br>
+
+<!-- ## &#x1f4c8; GitHub Stats
+<a href="https://github.com/Junscuzzy/Junscuzzy">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junscuzzy&hide=php&layout=compact&width=50" alt="Most Used Languages" />
+</a>
+<a href="https://github.com/Junscuzzy/Junscuzzy">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=junscuzzy&hide=prs,issues&count_private=true&show_icons=true" alt="Julien's GitHub Stats" />
+</a>-->
