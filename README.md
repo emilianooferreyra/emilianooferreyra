@@ -1,7 +1,7 @@
 
 <!--![Hi](https://github.com/Junscuzzy/Junscuzzy/blob/master/assets/hi.gif)-->
 <h1>
- ✌<br>
+ 👽<br>
   Hi there ― <br> 
   my name is Emiliano, <br> 
   passionate developer.
@@ -15,24 +15,24 @@
 <p>
  <🎯 /> I'm currently building...
     <br>
-    <☕️‍ /> When I'm not hacking, I sometimes do some freelance work as frontend dev.
+    <☕️‍ /> When I'm not hacking, I sometimes do some freelance work...
     <br>
-    <🌱 /> I am also slowly learning react-native and nodejs and how to become a fullstack developer. Also interested in computer security.
+    <🌱 /> I'm also learning react-native, nodejs, and how to become a Fullstack developer/Mobile Engineer. I am very interested in computer security, I read blogs and research vulnerabilities.
     <br>
-    <🍺 /> Besides programming, I'm interested in music, especially electronic music, and I like to play sports like handball since I was a kid or football with friends.
+    <🍺 /> Besides programming, I'm interested in music, especially techno and house music, I like to play sports like handball, football with friends or go jogging.
 </p>
 
 ### Some technologies I like working with
 
 ```json
 {
-  "frontend": ["react", "nextjs", "mui|tailwindcss"],
+  "frontend": ["react", "react-native", "css|mui|tailwindcss|bootstrap"],
   "backend": ["typescript", "nodejs", "express", "firebase", "mongodb", "postgresql"],
 }
 ```
 
 
-#### Contact me on [Telegram](https://t.me/emilianoferreyra), we can chat at 🇪🇸 🇬🇧(🤏🏻).
+#### Contact me on [Telegram](https://t.me/emilianoferreyra), we can chat at 🇪🇸 🇬🇧(I'm learning, I need more fluency).
 
  <h3>
   📫  You can also check out my <b>latest works</b> or <b>contact me</b> on
